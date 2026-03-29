@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Allow all search engines to index your site
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
